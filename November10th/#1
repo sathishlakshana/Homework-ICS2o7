@@ -1,0 +1,9 @@
+function circleArea(radius:real):real
+var area:real
+area:= 3.14*radius*radius
+result area
+end circleArea
+
+var r :real
+get r
+put cirleArea(r)
