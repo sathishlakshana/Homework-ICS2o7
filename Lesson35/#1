@@ -1,0 +1,7 @@
+procedure outputWord(word:string, n:int)
+for i:1..n
+put word
+end for 
+end outputWord
+
+outputWord("string",10)
